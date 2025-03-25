@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public int currentLevel = 1;
+    public int currentLevel=1;
     public LevelGridCalculator levelGridCalculator;
     public GridManager gridManager;
 
